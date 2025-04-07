@@ -1,0 +1,14 @@
+Job 1 Title: Machine Learning Engineer
+Description: Develop and implement AI models with a focus on NLP and sentiment analysis. Enhance machine learning algorithms and implement data processing pipelines for use in the enterprise.
+
+Job 2 Title: Software Development Engineer
+Description: Develop cutting-edge applications based on object-oriented programming concepts and efficient algorithms. Apply competitive programming skills to craft reliable software solutions in team-based environments.
+
+Job 3 Title: NLP Research Associate
+Description: Excel in Natural Language Processing research focusing on sentiment analysis techniques. Develop and evaluate novel models and publish in peer-reviewed publications in the field.
+
+Job 4 Title: Cloud Solutions Developer
+Description: Build scalable applications and deploy AI/ML models on cloud platforms. Use web development and cloud computing abilities to develop high-performance distributed systems.
+
+Job 5 Title: AI Application Specialist
+Description: Develop business-applicable AI solutions to real business issues. Translate technical concepts into practical applications with measurable value.
